@@ -1,6 +1,6 @@
 # Kivy-Project-BAISD-2-68
 
-# AI Stock Counter App
+**AI Stock Counter App**
 แอปพลิเคชันจัดการสต็อกสินค้าอัจฉริยะที่ใช้เทคโนโลยี Computer Vision ในการตรวจนับวัตถุผ่านกล้องแบบ Real-time พร้อมระบบจัดการฐานข้อมูลในตัวและการวิเคราะห์ข้อมูลเชิงสถิติด้วยกราฟ
 
 # ภาพรวมของโปรแกรม (Program Overview)
